@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Plex",
+    "image": "/images/plex.png",
+    "link": "http://plex:32400/web/index.html"
+  },
+  {
+    "title": "Torrents",
+    "image": "/images/transmission.png",
+    "link": "http://richard:9091/transmission/web"
+  },
+  {
+    "title": "PiHole",
+    "image": "/images/pihole.png",
+    "link": "http://pihole/admin"
+  },
+  {
+    "title": "n8n",
+    "image": "/images/n8n.png",
+    "link": "https://canut.ryanj.org"
+  }
+]

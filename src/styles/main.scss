@@ -1,0 +1,141 @@
+// Chalk Color Theme
+$black: #3a3b3d;
+$grey: #939ca1;
+$red: #aa5466;
+$green: #94aa7d;
+$yellow: #c1ba5c;
+$blue: #5e90ba;
+$sea: #7ab3a9;
+$white: #dcdfe0;
+
+$base: 16px;
+$small: 1rem;
+$regular: 1.2rem;
+$medium: 1.4rem;
+$large: 1.6rem;
+
+body {
+  background-color: $black;
+  color: $white;
+  font-size: $base;
+}
+
+/**
+ * Colors
+ */
+
+.black {
+  color: $black;
+}
+
+.grey {
+  color: $grey;
+}
+
+.red {
+  color: $red;
+}
+
+.green {
+  color: $green;
+}
+
+.yellow {
+  color: $yellow;
+}
+
+.blue {
+  color: $blue;
+}
+
+.sea {
+  color: $sea;
+}
+
+.white {
+  color: $white;
+}
+
+.blue-border {
+  border: 1px solid $blue;
+}
+
+/**
+ * Font Size
+ */
+
+.x-large {
+  font-size: $large;
+}
+
+.medium {
+  font-size: $medium;
+}
+
+.regular {
+  font-size: $regular;
+}
+
+.small {
+  font-size: $small;
+}
+
+/**
+ * Grid
+ */
+
+.grid {
+  display: grid;
+}
+
+.grid-gap {
+  grid-gap: $small;
+}
+
+.grid-columns {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.grid-rows {
+  grid-template-rows: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.grid-columns-small {
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}
+
+.grid-rows-small {
+  grid-template-rows: repeat(auto-fit, minmax(100px, 1fr));
+}
+
+/**
+ * Spacing
+ */
+
+.standard-padding {
+  padding: $small;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.block {
+  display: block;
+}
+
+/**
+ * Alignment
+ */
+
+.center-text {
+  text-align: center;
+}
+
+.left-text {
+  text-align: left;
+}
+
+.center-margin {
+  margin: auto auto;
+}

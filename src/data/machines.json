@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Richard",
+    "description": "Richard The Lionhearted",
+    "image": "/images/richard.jpg",
+    "text": ["Virtual Machine", "Ubuntu Linux", "VPN Available"],
+    "ssh": "ssh://ryanj@richard"
+  },
+  {
+    "title": "Alfred",
+    "description": "Alfred the Great",
+    "image": "/images/alfred.jpg",
+    "text": ["Amazon LightSail Server", "Ubuntu Linux", "nginX Web Server"],
+    "ssh": "ssh://ryanj@alfred"
+  },
+  {
+    "title": "Edward",
+    "description": "Edward the Elder",
+    "image": "/images/edward.jpg",
+    "text": ["Server", "FreeNas", "FreeBSD"],
+    "ssh": "ssh://ryanj@edward"
+  },
+  {
+    "title": "Henry",
+    "description": "Henry I",
+    "image": "/images/henry.png",
+    "text": ["FreeBSD Jail", "DNSMasq"],
+    "ssh": "ssh://ryanj@henry"
+  }
+]
