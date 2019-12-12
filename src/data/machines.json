@@ -3,28 +3,42 @@
     "title": "Richard",
     "description": "Richard The Lionhearted",
     "image": "/images/richard.jpg",
-    "text": ["Virtual Machine", "Ubuntu Linux", "VPN Available"],
+    "text": ["VPN System", "Virtual Machine", "Ubuntu Linux"],
     "ssh": "ssh://ryanj@richard"
   },
   {
     "title": "Alfred",
     "description": "Alfred the Great",
     "image": "/images/alfred.jpg",
-    "text": ["Amazon LightSail Server", "Ubuntu Linux", "nginX Web Server"],
+    "text": ["Amazon LightSail Server", "Ubuntu Linux", "nginx Web Server", "Node Apps"],
+    "ssh": "ssh://ryanj@alfred"
+  },
+  {
+    "title": "Henry",
+    "description": "Henry",
+    "image": "/images/henry.png",
+    "text": ["FreeBSD Jail", "Apache", "PHP Apps", "Go Apps", "MySQL Server"],
     "ssh": "ssh://ryanj@alfred"
   },
   {
     "title": "Edward",
     "description": "Edward the Elder",
     "image": "/images/edward.jpg",
-    "text": ["Server", "FreeNas", "FreeBSD"],
+    "text": ["FreeNAS Server", "FreeBSD OS"],
     "ssh": "ssh://ryanj@edward"
   },
   {
-    "title": "Henry",
-    "description": "Henry I",
-    "image": "/images/henry.png",
-    "text": ["FreeBSD Jail", "DNSMasq"],
-    "ssh": "ssh://ryanj@henry"
+    "title": "Stephan",
+    "description": "Stephan of Blos",
+    "image": "/images/stephan.png",
+    "text": ["FreeNas Plugin", "FreeBSD Jail", "DNS Masq"],
+    "ssh": "ssh://ryanj@stephan"
+  },
+  {
+    "title": "Matilda",
+    "description": "Empress Matilda",
+    "image": "/images/matilda.png",
+    "text": ["FreeNas Plugin", "FreeBSD Jail", "Mysql"],
+    "ssh": "ssh://ryanj@matilda"
   }
 ]
