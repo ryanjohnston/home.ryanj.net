@@ -9,10 +9,10 @@ $sea: #7ab3a9;
 $white: #dcdfe0;
 
 $base: 16px;
-$small: 1rem;
-$regular: 1.2rem;
-$medium: 1.4rem;
-$large: 1.6rem;
+$small: 0.7rem;
+$regular: 0.9rem;
+$medium: 1.1rem;
+$large: 1.3rem;
 
 body {
   background-color: $black;
@@ -106,6 +106,10 @@ body {
 
 .grid-rows-small {
   grid-template-rows: repeat(auto-fit, minmax(100px, 1fr));
+}
+
+.min-height-100 {
+  min-height: 100px;
 }
 
 /**

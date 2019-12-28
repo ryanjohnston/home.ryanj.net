@@ -1,5 +1,12 @@
 [
   {
+    "title": "Edward",
+    "description": "Edward the Elder",
+    "image": "/images/edward.jpg",
+    "text": ["FreeNAS Server", "FreeBSD OS"],
+    "ssh": "ssh://ryanj@edward"
+  },
+  {
     "title": "Richard",
     "description": "Richard The Lionhearted",
     "image": "/images/richard.jpg",
@@ -21,13 +28,6 @@
     "ssh": "ssh://ryanj@alfred"
   },
   {
-    "title": "Edward",
-    "description": "Edward the Elder",
-    "image": "/images/edward.jpg",
-    "text": ["FreeNAS Server", "FreeBSD OS"],
-    "ssh": "ssh://ryanj@edward"
-  },
-  {
     "title": "Stephan",
     "description": "Stephan of Blos",
     "image": "/images/stephan.png",
@@ -39,6 +39,13 @@
     "description": "Empress Matilda",
     "image": "/images/matilda.png",
     "text": ["FreeNas Plugin", "FreeBSD Jail", "Mysql"],
+    "ssh": "ssh://ryanj@matilda"
+  },
+  {
+    "title": "John",
+    "description": "John",
+    "image": "/images/john.jpg",
+    "text": ["Virtual Machine", "Ubuntu", "Docker"],
     "ssh": "ssh://ryanj@matilda"
   }
 ]

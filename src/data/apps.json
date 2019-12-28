@@ -1,5 +1,10 @@
 [
   {
+    "title": "FreeNAS",
+    "image": "/images/freenas.png",
+    "link": "http://freenas/ui/dashboard"
+  },
+  {
     "title": "RSS",
     "image": "/images/rss.png",
     "link": "http://freshrss.ryanj.net"
@@ -7,22 +12,27 @@
   {
     "title": "Shiori",
     "image": "/images/bookmark.png",
-    "link": "http://henry:8080"
+    "link": "http://henry.ryanj.net:8080"
+  },
+  {
+    "title": "huginn",
+    "image": "/images/crow.png",
+    "link": "http://huginn.ryanj.net"
   },
   {
     "title": "Plex",
     "image": "/images/plex.png",
-    "link": "http://plex:32400/web/index.html"
+    "link": "http://plexryanj.net:32400/web/index.html"
   },
   {
     "title": "Torrents",
     "image": "/images/transmission.png",
-    "link": "http://richard:9091/transmission/web"
+    "link": "http://richard.ryanj.net:9091/transmission/web"
   },
   {
     "title": "PiHole",
     "image": "/images/pihole.png",
-    "link": "http://pihole/admin"
+    "link": "http://pihole.ryanj.net/admin"
   },
   {
     "title": "n8n",
@@ -38,5 +48,10 @@
     "title": "PHPMyAdmin",
     "image": "/images/mysql.png",
     "link": "http://phpmyadmin.ryanj.net/"
+  },
+  {
+    "title": "RSS Bridge",
+    "image": "/images/bridge.png",
+    "link": "http://rss-bridge.ryanj.net/"
   }
 ]

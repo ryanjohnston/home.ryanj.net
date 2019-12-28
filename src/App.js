@@ -25,7 +25,7 @@ function App() {
         <SmallGrid>
           {apps.map((app, index) => {
             return (
-              <Icon className="center-text" key={index}>
+              <Icon className="center-text min-height-100" key={index}>
                 <LinkNewWindow link={app.link} className="block no-margin standard-padding">
                   <img src={app.image} alt={app.title} className="center-text center-margin" />
                 </LinkNewWindow>
