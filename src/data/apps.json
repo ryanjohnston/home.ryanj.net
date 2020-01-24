@@ -5,19 +5,14 @@
     "link": "http://freenas/ui/dashboard"
   },
   {
+    "title": "MineCraft",
+    "image": "/images/minecraft.png",
+    "link": "http://minecraft:8443/admin/index.html"
+  },
+  {
     "title": "RSS",
     "image": "/images/rss.png",
-    "link": "http://freshrss.ryanj.net"
-  },
-  {
-    "title": "Shiori",
-    "image": "/images/bookmark.png",
-    "link": "http://henry.ryanj.net:8080"
-  },
-  {
-    "title": "huginn",
-    "image": "/images/crow.png",
-    "link": "http://huginn.ryanj.net"
+    "link": "http://freshrss"
   },
   {
     "title": "Plex",
@@ -27,12 +22,12 @@
   {
     "title": "Torrents",
     "image": "/images/transmission.png",
-    "link": "http://richard.ryanj.net:9091/transmission/web"
+    "link": "http://richard:9091/transmission/web"
   },
   {
     "title": "PiHole",
     "image": "/images/pihole.png",
-    "link": "http://pihole.ryanj.net/admin"
+    "link": "http://pihole/admin"
   },
   {
     "title": "n8n",
@@ -42,16 +37,16 @@
   {
     "title": "DNS Tools",
     "image": "/images/dns.png",
-    "link": "http://spftoolbox.ryanj.net/"
+    "link": "http://spftoolbox/"
   },
   {
     "title": "PHPMyAdmin",
     "image": "/images/mysql.png",
-    "link": "http://phpmyadmin.ryanj.net/"
+    "link": "http://phpmyadmin/"
   },
   {
     "title": "RSS Bridge",
     "image": "/images/bridge.png",
-    "link": "http://rss-bridge.ryanj.net/"
+    "link": "http://rss-bridge/"
   }
 ]
