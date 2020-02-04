@@ -45,7 +45,7 @@
     "title": "John",
     "description": "John",
     "image": "/images/john.jpg",
-    "text": ["Virtual Machine", "Ubuntu", "Docker"],
+    "text": ["Virtual Machine", "MineCraft", "Ubuntu", "Docker"],
     "ssh": "ssh://ryanj@matilda"
   }
 ]
