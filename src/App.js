@@ -27,7 +27,7 @@ function App() {
             return (
               <Icon className="center-text min-height-100" key={index}>
                 <LinkNewWindow link={app.link} className="block no-margin standard-padding">
-                  <img src={app.image} alt={app.title} className="center-text center-margin" />
+                  <img src={app.image} alt={app.title} height="64" width="64" className="center-text center-margin" />
                 </LinkNewWindow>
                 <TextRegular className="center-text regular white no-margin block">
                   {app.title}

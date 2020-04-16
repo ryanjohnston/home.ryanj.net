@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "copy": "unalias cp; cp -Rp build/* /Volumes/ryanj/websites/home/."
+    "copy": "unalias cp; cp -Rp build/* /Volumes/ryanj-1/websites/home/."
   },
   "eslintConfig": {
     "extends": "react-app"

@@ -5,9 +5,9 @@
     "link": "http://freenas/ui/dashboard"
   },
   {
-    "title": "MineCraft",
-    "image": "/images/minecraft.png",
-    "link": "http://minecraft:8443/admin/index.html"
+    "title": "i2p",
+    "image": "/images/i2p.png",
+    "link": "http://192.168.4.141:7657/home"
   },
   {
     "title": "RSS",
